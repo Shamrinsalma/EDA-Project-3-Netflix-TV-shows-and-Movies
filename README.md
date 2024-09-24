@@ -1,5 +1,5 @@
  PROJECT-3 : NETFLIX TV SHOWS AND MOVIES 
- Here's a comprehensive report with introduction, visualization insights, conclusion, and recommendations:
+ 
 
 Netflix Content Analysis Report:
 
